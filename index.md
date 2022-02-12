@@ -8,4 +8,4 @@ websites @.pc-cdn.de based on jekyll-gulp-sass-browser-sync (exception subdomain
 
 websites @.pc-cdn.eu based on jekyll-gulp-sass-browser-sync (exception subdomain goto. )
 
-[Font Licenses and Sorces]({{ site.baseurl }}{% license.html %})
+[Font Licenses and Sorces]({% link license.md %})
