@@ -3,51 +3,51 @@ layout: default
 permalink: /license.html
 title: Open Source Font Attribution
 ---
-Open Source Font Attribution
+## Open Source Font Attribution
 
-ABeeZee	SIL Open Font License, 1.1
-ABeeZee-Regular.ttf: Copyright (c) 2011 by Anja Meiners, with Reserved Font Name 'ABeeZee'
-ABeeZee-Italic.ttf: Copyright (c) 2011 by Anja Meiners, with Reserved Font Name 'ABeeZee'
-Abel	SIL Open Font License, 1.1
-Abel-Regular.ttf: Copyright (c) 2011, Matthew Desmond (http://www.madtype.com | mattdesmond@gmail.com), with Reserved Font Name Abel.
-Abhaya Libre	SIL Open Font License, 1.1
-AbhayaLibre-Regular.ttf: Copyright (c) 1996-2015 Pushpananda Ekanayake (pushpanandae@gmail.com) Copyright (c) 2015 Sol Matas (sol@sonnenshine.com.ar) Copyright (c) 2015 Mooniak (hello@mooniak.com)
-AbhayaLibre-Medium.ttf: Copyright (c) 1996-2015 Pushpananda Ekanayake (pushpanandae@gmail.com) Copyright (c) 2015 Sol Matas (sol@sonnenshine.com.ar) Copyright (c) 2015 Mooniak (hello@mooniak.com)
-AbhayaLibre-SemiBold.ttf: Copyright (c) 1996-2015 Pushpananda Ekanayake (pushpanandae@gmail.com) Copyright (c) 2015 Sol Matas (sol@sonnenshine.com.ar) Copyright (c) 2015 Mooniak (hello@mooniak.com)
-AbhayaLibre-Bold.ttf: Copyright (c) 1996-2015 Pushpananda Ekanayake (pushpanandae@gmail.com) Copyright (c) 2015 Sol Matas (sol@sonnenshine.com.ar) Copyright (c) 2015 Mooniak (hello@mooniak.com)
-AbhayaLibre-ExtraBold.ttf: Copyright (c) 1996-2015 Pushpananda Ekanayake (pushpanandae@gmail.com) Copyright (c) 2015 Sol Matas (sol@sonnenshine.com.ar) Copyright (c) 2015 Mooniak (hello@mooniak.com)
-Abril Fatface	SIL Open Font License, 1.1
-AbrilFatface-Regular.ttf: Copyright (c) 2011, Copyright (c) 2011, TypeTogether (www.type-together.com), with Reserved Font Names "Abril" and "Abril Fatface"
-Aclonica	Apache License, version 2.0
-Aclonica-Regular.ttf: Copyright (c) 2010 Brian J. Bonislawsky (astigma@astigmatic.com)
-Acme	SIL Open Font License, 1.1
-Acme-Regular.ttf: Copyright (c) 2011 by Juan Pablo del Peral (info@huertatipografica.com.ar), with Reserved Font Name "Acme"
-Actor	SIL Open Font License, 1.1
-Actor-Regular.ttf: Copyright (c) 2011, Thomas Junold <hallo@buerofueraufmerksamkeit.de>, with Reserved Font Name "Actor".
-Adamina	SIL Open Font License, 1.1
-Adamina-Regular.ttf: Copyright (c) 2011, Cyreal (www.cyreal.org) with Reserved Font Name 'Adamina'
-Advent Pro	SIL Open Font License, 1.1
-AdventPro-Thin.ttf: Copyright (c) 2008 Andreas Kalpakidis (hello@inderesting.com), with Reserved Font Name "Advent Pro"
-AdventPro-ExtraLight.ttf: Copyright (c) 2008 Andreas Kalpakidis (hello@inderesting.com), with Reserved Font Name "Advent Pro"
-AdventPro-Light.ttf: Copyright (c) 2008 Andreas Kalpakidis (hello@inderesting.com), with Reserved Font Name "Advent Pro"
-AdventPro-Regular.ttf: Copyright (c) 2008 Andreas Kalpakidis (hello@inderesting.com), with Reserved Font Name "Advent Pro"
-AdventPro-Medium.ttf: Copyright (c) 2008 Andreas Kalpakidis (hello@inderesting.com), with Reserved Font Name "Advent Pro"
-AdventPro-SemiBold.ttf: Copyright (c) 2008 Andreas Kalpakidis (hello@inderesting.com), with Reserved Font Name "Advent Pro"
-AdventPro-Bold.ttf: Copyright (c) 2008 Andreas Kalpakidis (hello@inderesting.com), with Reserved Font Name "Advent Pro"
-Aguafina Script	SIL Open Font License, 1.1
-AguafinaScript-Regular.ttf: Copyright (c) 2007 Angel Koziupa (sudtipos@sudtipos.com), Copyright (c) 2007 Alejandro Paul (sudtipos@sudtipos.com), with Reserved Font Name "Aguafina Script"
-Akaya Kanadaka	SIL Open Font License, 1.1
-AkayaKanadaka-Regular.ttf: Copyright 2015 The Akaya Kanadaka Project Authors (https://github.com/vaishnavimurthy/Akaya-Kanadaka)
-Akaya Telivigala	SIL Open Font License, 1.1
-AkayaTelivigala-Regular.ttf: Copyright 2015 The Akaya Telivigala Project Authors (https://github.com/vaishnavimurthy/Akaya-Telivigala)
-Akronim	SIL Open Font License, 1.1
-Akronim-Regular.ttf: Copyright (c) 2012 Grzegorz Klimczewski, Fonty.PL (www.fonty.pl), with Reserved Font Name 'Akronim'
-Aladin	SIL Open Font License, 1.1
-Aladin-Regular.ttf: Copyright (c) 2009 Angel Koziupa (sudtipos@sudtipos.com), Copyright (c) 2009 Alejandro Paul (sudtipos@sudtipos.com), with Reserved Font Name "Aladin"
-Alata	SIL Open Font License, 1.1
-Alata-Regular.ttf: Copyright 2019 The Alata Project Authors (https://github.com/SorkinType/Alata)
-Alatsi	SIL Open Font License, 1.1
-Alatsi-Regular.ttf: Copyright 2019 The Alatsi Project Authors (https://github.com/SorkinType/Alatsi)
+ABeeZee	SIL Open Font License, 1.1  
+ABeeZee-Regular.ttf: Copyright (c) 2011 by Anja Meiners, with Reserved Font Name 'ABeeZee'  
+ABeeZee-Italic.ttf: Copyright (c) 2011 by Anja Meiners, with Reserved Font Name 'ABeeZee'  
+Abel	SIL Open Font License, 1.1  
+Abel-Regular.ttf: Copyright (c) 2011, Matthew Desmond (http://www.madtype.com | mattdesmond@gmail.com), with Reserved Font Name Abel.  
+Abhaya Libre	SIL Open Font License, 1.1  
+AbhayaLibre-Regular.ttf: Copyright (c) 1996-2015 Pushpananda Ekanayake (pushpanandae@gmail.com) Copyright (c) 2015 Sol Matas (sol@sonnenshine.com.ar) Copyright (c) 2015 Mooniak (hello@mooniak.com)  
+AbhayaLibre-Medium.ttf: Copyright (c) 1996-2015 Pushpananda Ekanayake (pushpanandae@gmail.com) Copyright (c) 2015 Sol Matas (sol@sonnenshine.com.ar) Copyright (c) 2015 Mooniak (hello@mooniak.com)  
+AbhayaLibre-SemiBold.ttf: Copyright (c) 1996-2015 Pushpananda Ekanayake (pushpanandae@gmail.com) Copyright (c) 2015 Sol Matas (sol@sonnenshine.com.ar) Copyright (c) 2015 Mooniak (hello@mooniak.com)  
+AbhayaLibre-Bold.ttf: Copyright (c) 1996-2015 Pushpananda Ekanayake (pushpanandae@gmail.com) Copyright (c) 2015 Sol Matas (sol@sonnenshine.com.ar) Copyright (c) 2015 Mooniak (hello@mooniak.com)  
+AbhayaLibre-ExtraBold.ttf: Copyright (c) 1996-2015 Pushpananda Ekanayake (pushpanandae@gmail.com) Copyright (c) 2015 Sol Matas (sol@sonnenshine.com.ar) Copyright (c) 2015 Mooniak (hello@mooniak.com)  
+Abril Fatface	SIL Open Font License, 1.1  
+AbrilFatface-Regular.ttf: Copyright (c) 2011, Copyright (c) 2011, TypeTogether (www.type-together.com), with Reserved Font Names "Abril" and "Abril Fatface"  
+Aclonica	Apache License, version 2.0  
+Aclonica-Regular.ttf: Copyright (c) 2010 Brian J. Bonislawsky (astigma@astigmatic.com)  
+Acme	SIL Open Font License, 1.1  
+Acme-Regular.ttf: Copyright (c) 2011 by Juan Pablo del Peral (info@huertatipografica.com.ar), with Reserved Font Name "Acme"  
+Actor	SIL Open Font License, 1.1  
+Actor-Regular.ttf: Copyright (c) 2011, Thomas Junold <hallo@buerofueraufmerksamkeit.de>, with Reserved Font Name "Actor".  
+Adamina	SIL Open Font License, 1.1  
+Adamina-Regular.ttf: Copyright (c) 2011, Cyreal (www.cyreal.org) with Reserved Font Name 'Adamina'  
+Advent Pro	SIL Open Font License, 1.1  
+AdventPro-Thin.ttf: Copyright (c) 2008 Andreas Kalpakidis (hello@inderesting.com), with Reserved Font Name "Advent Pro"  
+AdventPro-ExtraLight.ttf: Copyright (c) 2008 Andreas Kalpakidis (hello@inderesting.com), with Reserved Font Name "Advent Pro"  
+AdventPro-Light.ttf: Copyright (c) 2008 Andreas Kalpakidis (hello@inderesting.com), with Reserved Font Name "Advent Pro"  
+AdventPro-Regular.ttf: Copyright (c) 2008 Andreas Kalpakidis (hello@inderesting.com), with Reserved Font Name "Advent Pro"  
+AdventPro-Medium.ttf: Copyright (c) 2008 Andreas Kalpakidis (hello@inderesting.com), with Reserved Font Name "Advent Pro"  
+AdventPro-SemiBold.ttf: Copyright (c) 2008 Andreas Kalpakidis (hello@inderesting.com), with Reserved Font Name "Advent Pro"  
+AdventPro-Bold.ttf: Copyright (c) 2008 Andreas Kalpakidis (hello@inderesting.com), with Reserved Font Name "Advent Pro"  
+Aguafina Script	SIL Open Font License, 1.1  
+AguafinaScript-Regular.ttf: Copyright (c) 2007 Angel Koziupa (sudtipos@sudtipos.com), Copyright (c) 2007 Alejandro Paul (sudtipos@sudtipos.com), with Reserved Font Name "Aguafina Script"  
+Akaya Kanadaka	SIL Open Font License, 1.1  
+AkayaKanadaka-Regular.ttf: Copyright 2015 The Akaya Kanadaka Project Authors (https://github.com/vaishnavimurthy/Akaya-Kanadaka)  
+Akaya Telivigala	SIL Open Font License, 1.1  
+AkayaTelivigala-Regular.ttf: Copyright 2015 The Akaya Telivigala Project Authors (https://github.com/vaishnavimurthy/Akaya-Telivigala)  
+Akronim	SIL Open Font License, 1.1  
+Akronim-Regular.ttf: Copyright (c) 2012 Grzegorz Klimczewski, Fonty.PL (www.fonty.pl), with Reserved Font Name 'Akronim'  
+Aladin	SIL Open Font License, 1.1  
+Aladin-Regular.ttf: Copyright (c) 2009 Angel Koziupa (sudtipos@sudtipos.com), Copyright (c) 2009 Alejandro Paul (sudtipos@sudtipos.com), with Reserved Font Name "Aladin"  
+Alata	SIL Open Font License, 1.1  
+Alata-Regular.ttf: Copyright 2019 The Alata Project Authors (https://github.com/SorkinType/Alata)  
+Alatsi	SIL Open Font License, 1.1   
+Alatsi-Regular.ttf: Copyright 2019 The Alatsi Project Authors (https://github.com/SorkinType/Alatsi)  
 Aldrich	SIL Open Font License, 1.1
 Aldrich-Regular.ttf: Copyright (c) Matthew Desmond, 2011. All rights reserved.
 Alef	SIL Open Font License, 1.1
