@@ -1,4 +1,8 @@
-
+---
+layout: default
+permalink: /license.html
+title: Open Source Font Attribution
+---
 Open Source Font Attribution
 
 ABeeZee	SIL Open Font License, 1.1
