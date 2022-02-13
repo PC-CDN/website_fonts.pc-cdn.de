@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="de-DE">
 <head>
-<title>{{ page.title }}</title>
+<title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }} - {{ site.subtitle }}</title>
 <meta name="robots" content="max-image-preview:large">
 <meta name="description" content="{{ page.description | default: site.description }}" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -114,11 +114,9 @@
 	</div>
 <!-- #content -->
 
-	<footer id="colophon" class="site-footer" role="contentinfo">
+<footer id="colophon" class="site-footer" role="contentinfo">
 		
-		<div class="site-info">
-			<div>Theme: Writr von <a href="http://wordpress.com/themes/writr/" rel="designer">WordPress.com</a>.</div>
-		</div>
+
 <div class="page-footer">
 {% include page-footer.html %}
 </div>
