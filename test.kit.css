@@ -1,7 +1,7 @@
 ---
 layout: null
 ---
-
-{ % loop_directory directory:images iterator:image filter:*.jpg sort:descending %}
+# Test 1
+{% loop_directory directory:images iterator:image filter:*.jpg sort:descending %}
    <img src="{{ image }}" />
-{ % endloop_directory %}
+{% endloop_directory %}
