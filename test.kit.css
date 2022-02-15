@@ -2,6 +2,8 @@
 layout: null
 ---
 # Test 1
-{% loop_directory directory:images iterator:image filter:*.jpg sort:descending %}
-   <img src="{{ image }}" />
-{% endloop_directory %}
+{% for font in site.ifonts %}
+     {% if font.extname == 'ttf' %}
+         <p> src="{{ file.url }}" />
+     {% endif %}
+{% endfor %}
