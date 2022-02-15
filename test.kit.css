@@ -1,6 +1,7 @@
 ---
 layout: null
 ---
-{% loop_directory directory:/fonts iterator:font filter:*.ttf sort:ascending %} 
-<p>{{ font }}</p> 
-{% endloop_directory %}
+#usage:
+#{% loop_directory directory:images iterator:image filter:*.jpg sort:descending %}
+#   <img src="{{ image }}" />
+#{% endloop_directory %}
