@@ -19,6 +19,10 @@ livereload: true
 author: Christian Pfeiffer
 since: 2022
 deactivaterelatedposts: true
+
+collections:
+- fonts
+
 # Pagination Settings 
 #pagination:
 #  enabled: true
