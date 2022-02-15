@@ -1,8 +1,8 @@
 ---
 layout: null
 ---
-# Test 1
-{% for font in site.ifonts %}
+# Test 2
+{% for font in site.fonts %}
      {% if font.extname == 'ttf' %}
          <p> src="{{ file.url }}" />
      {% endif %}
