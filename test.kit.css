@@ -1,19 +1,22 @@
 ---
 layout: null
 ---
-# Test 3.2
+# Test 3.3
 
-
-{% for font in site.fonts %}
-     {% if font.extname == 'ttf' %}
-         <li>{{ file.url }}</li>
-         <li>{{ file.basename }}</li>
-         <li>{{ file.name }}</li>
+{% assign font_files = site.static_files | where: "font", true %}
+ {% for myfontfiles in font_files %}
+     {% if myfontfiles.extname == '.ttf' %}
+         <ul>
+         <li>{{ myfontfiles.path }}</li>
+         <li>{{ myfontfiles.url }}</li>
+         <li>{{ myfontfiles.name }}</li>
+         <li>{{ myfontfiles.basename }}</li>
+         <li>{{ myfontfiles.extname }}</li>
+         <li>{{ myfontfiles.modified_time }}</li>
          <li></li>
          <li></li>
          <li></li>
-         <li></li>
-         <li></li>
+         </ul>
      {% endif %}
-{% endfor %}
 
+{% endfor %}
