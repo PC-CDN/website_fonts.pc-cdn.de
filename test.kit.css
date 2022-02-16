@@ -1,11 +1,19 @@
 ---
 layout: null
 ---
-# Test 3.1
+# Test 3.2
 
 
 {% for font in site.fonts %}
      {% if font.extname == 'ttf' %}
-         <p> file="{{ file.url }}" </p>
+         <li>{{ file.url }}</li>
+         <li>{{ file.basename }}</li>
+         <li>{{ file.name }}</li>
+         <li></li>
+         <li></li>
+         <li></li>
+         <li></li>
+         <li></li>
      {% endif %}
 {% endfor %}
+
