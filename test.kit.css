@@ -1,22 +1,15 @@
 ---
 layout: null
 ---
-# Test 3.3
-
 {% assign font_files = site.static_files | where: "font", true %}
  {% for myfontfiles in font_files %}
-     {% if myfontfiles.extname == '.ttf' %}
-         <ul>
-         <li>{{ myfontfiles.path }}</li>
-         <li>{{ myfontfiles.url }}</li>
-         <li>{{ myfontfiles.name }}</li>
-         <li>{{ myfontfiles.basename }}</li>
-         <li>{{ myfontfiles.extname }}</li>
-         <li>{{ myfontfiles.modified_time }}</li>
-         <li></li>
-         <li></li>
-         <li></li>
-         </ul>
-     {% endif %}
-
-{% endfor %}
+  {% if myfontfiles.extname == '.ttf' %}
+@font-face {
+  font-family: '{{ myfontfiles.basename }}::MENU';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.pc-cdn.eu/{{ myfontfiles.path }}) format('ttf');
+  /* {{ myfontfiles.name }}:{{ myfontfiles.modified_time }} */
+}
+  {% endif %}
+ {% endfor %}
