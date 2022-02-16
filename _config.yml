@@ -20,8 +20,11 @@ author: Christian Pfeiffer
 since: 2022
 deactivaterelatedposts: true
 
-collections:
-- fonts
+defaults:
+ - scope:
+    path: "fonts"
+   values:
+    font: true
 
 # Pagination Settings 
 #pagination:
