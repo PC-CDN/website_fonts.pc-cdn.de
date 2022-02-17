@@ -13,7 +13,7 @@ Informationen über die Verwendung von Drittkompeten und die anwendbaren Lizenzb
   font-family: '{{ myfontfiles.basename }}';
   /* font-style: normal; */
   /* font-weight: 400; */
-  src: url(https://fonts.pc-cdn.eu/{{ myfontfiles.path }}) format('ttf');
+  src: url(https://fonts.pc-cdn.eu{{ myfontfiles.path }}) format('ttf');
   /* {{ myfontfiles.name }}:{{ myfontfiles.modified_time }} */
 }
   {% endif %}
