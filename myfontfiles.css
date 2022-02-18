@@ -9,12 +9,19 @@ Informationen über die Verwendung von Drittkompeten und die anwendbaren Lizenzb
 {% assign font_files = site.static_files | where: "font", true %}
  {% for myfontfiles in font_files %}
   {% if myfontfiles.extname == '.ttf' %}
+
 @font-face {
   font-family: '{{ myfontfiles.basename }}';
-  /* font-style: normal; */
-  /* font-weight: 400; */
-  src: url(https://fonts.pc-cdn.eu{{ myfontfiles.path }}) format('ttf');
-  /* {{ myfontfiles.name }}:{{ myfontfiles.modified_time }} */
+  font-style: normal;
+  font-weight: 400;
+  src: url({{ myfontfiles.path }}) format('ttf');
 }
-  {% endif %}
+
+@font-face {
+  font-family: '{{ myfontfiles.basename }}::MENU';
+  font-style: normal;
+  font-weight: 400;
+  src: url({{ myfontfiles.path }}) format('ttf');
+}
+ {% endif %}
  {% endfor %}
