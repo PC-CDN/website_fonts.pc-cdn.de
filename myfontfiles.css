@@ -15,25 +15,13 @@ Informationen über die Verwendung von Drittkompeten und die anwendbaren Lizenzb
   font-family: '{{ myfontfiles.basename }}';
   font-style: normal;
   font-weight: 400;
-  /* src: url('{{ myfontfiles.basename }}.eot'); /* IE9 Compat Modes */
-  src: local(''),
-       /* url({{ myfontfiles.basename }}.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       /* url('.{{ myfontfiles.basename }}.woff2') format('woff2'), /* Super Modern Browsers */
-       /* url('{{ myfontfiles.basename }}.woff') format('woff'), /* Modern Browsers */
-       url('{{ myfontfiles.path }}') format('truetype'), /* Safari, Android, iOS */
-       /* url('{{ myfontfiles.basename }}.svg#{{ myfontfiles.basename }}') format('svg'); /* Legacy iOS */
+  src : url('{{ myfontfiles.path }}') format('truetype');
 }
 @font-face {
   font-family: '{{ myfontfiles.basename }}::MENU';
   font-style: normal;
   font-weight: 400;
-  /* src: url('{{ myfontfiles.basename }}.eot'); /* IE9 Compat Modes */
-  src: local(''),
-       /* url({{ myfontfiles.basename }}.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       /* url('.{{ myfontfiles.basename }}.woff2') format('woff2'), /* Super Modern Browsers */
-       /* url('{{ myfontfiles.basename }}.woff') format('woff'), /* Modern Browsers */
-       url('{{ myfontfiles.path }}') format('truetype'), /* Safari, Android, iOS */
-       /* url('{{ myfontfiles.basename }}.svg#{{ myfontfiles.basename }}') format('svg'); /* Legacy iOS */
+  src : url('{{ myfontfiles.path }}') format('truetype');
 }
   {% elsif myfontfiles.basename contains 'Italic') %}
 
@@ -42,26 +30,14 @@ Informationen über die Verwendung von Drittkompeten und die anwendbaren Lizenzb
   font-family: '{{ myfontfiles.basename }}';
   font-style: italic;
   font-weight: 400;
-  /* src: url('{{ myfontfiles.basename }}.eot'); */ /* IE9 Compat Modes */
-  src: local(''), 
-       /* url({{ myfontfiles.basename }}.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       /* url('{{ myfontfiles.basename }}.woff2') format('woff2'), /* Super Modern Browsers */
-       /* url('{{ myfontfiles.basename }}.woff') format('woff'), /* Modern Browsers */
-       url('{{ myfontfiles.path }}') format('truetype'), /* Safari, Android, iOS */
-       /* url('{{ myfontfiles.basename }}.svg#{{ myfontfiles.basename }}') format('svg'); /* Legacy iOS */
+  src : url('{{ myfontfiles.path }}') format('truetype');
 }
 /* {{ myfontfiles.basename }} = italic */
 @font-face {
   font-family: '{{ myfontfiles.basename }}::MENU';
   font-style: italic;
   font-weight: 400;
-  /* src: url('{{ myfontfiles.basename }}.eot'); */ /* IE9 Compat Modes */
-  src: local(''), 
-       /* url({{ myfontfiles.basename }}.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       /* url('{{ myfontfiles.basename }}.woff2') format('woff2'), /* Super Modern Browsers */
-       /* url('{{ myfontfiles.basename }}.woff') format('woff'), /* Modern Browsers */
-       url('{{ myfontfiles.path }}') format('truetype'), /* Safari, Android, iOS */
-       /* url('{{ myfontfiles.basename }}.svg#{{ myfontfiles.basename }}') format('svg'); /* Legacy iOS */
+  src : url('{{ myfontfiles.path }}') format('truetype');
 }
   {% else %}
 /* {{ myfontfiles.basename }} no Regular no Italic */
@@ -69,25 +45,13 @@ Informationen über die Verwendung von Drittkompeten und die anwendbaren Lizenzb
   font-family: '{{ myfontfiles.basename }}';
   font-style: normal;
   font-weight: 400;
-  /* src: url('{{ myfontfiles.basename }}.eot'); */ /* IE9 Compat Modes */
-  src: local(''), 
-       /* url({{ myfontfiles.basename }}.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       /* url('{{ myfontfiles.basename }}.woff2') format('woff2'), /* Super Modern Browsers */
-       /* url('{{ myfontfiles.basename }}.woff') format('woff'), /* Modern Browsers */
-       url('{{ myfontfiles.path }}') format('truetype'), /* Safari, Android, iOS */
-       /* url('{{ myfontfiles.basename }}.svg#{{ myfontfiles.basename }}') format('svg'); /* Legacy iOS */
+  src : url('{{ myfontfiles.path }}') format('truetype');
 }
 @font-face {
   font-family: '{{ myfontfiles.basename }}::MENU';
   font-style: normal;
   font-weight: 400;
-  /* src: url('{{ myfontfiles.basename }}.eot'); */ /* IE9 Compat Modes */
-  src: local(''), 
-       /* url({{ myfontfiles.basename }}.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       /* url('{{ myfontfiles.basename }}.woff2') format('woff2'), /* Super Modern Browsers */
-       /* url('{{ myfontfiles.basename }}.woff') format('woff'), /* Modern Browsers */
-       url('{{ myfontfiles.path }}') format('truetype'), /* Safari, Android, iOS */
-       /* url('{{ myfontfiles.basename }}.svg#{{ myfontfiles.basename }}') format('svg'); /* Legacy iOS */
+  src : url('{{ myfontfiles.path }}') format('truetype');
 }
   {% endif %}
  {% endif %}
