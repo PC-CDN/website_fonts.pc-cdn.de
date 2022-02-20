@@ -5,7 +5,6 @@ layout: null
 ©2022 Christian Pfeiffer
 Informationen über die Verwendung von Drittkompeten und die anwendbaren Lizenzbedingungen finden Sie unter https://fonts.pc-cdn.eu/license.html
 */
-
 {% assign font_files = site.static_files | where: "font", true %}
  {% for myfontfiles in font_files %}
   {% if myfontfiles.extname == '.ttf' %}
@@ -23,8 +22,7 @@ Informationen über die Verwendung von Drittkompeten und die anwendbaren Lizenzb
   font-weight: 400;
   src : url('{{ myfontfiles.path }}') format('truetype');
 }
-  {% elsif myfontfiles.basename contains 'Italic') %}
-
+{% elsif myfontfiles.basename contains 'Italic') %}
 /* {{ myfontfiles.basename }} = italic */
 @font-face {
   font-family: '{{ myfontfiles.basename }}';
@@ -39,7 +37,7 @@ Informationen über die Verwendung von Drittkompeten und die anwendbaren Lizenzb
   font-weight: 400;
   src : url('{{ myfontfiles.path }}') format('truetype');
 }
-  {% else %}
+{% else %}
 /* {{ myfontfiles.basename }} no Regular no Italic */
 @font-face {
   font-family: '{{ myfontfiles.basename }}';
@@ -53,6 +51,6 @@ Informationen über die Verwendung von Drittkompeten und die anwendbaren Lizenzb
   font-weight: 400;
   src : url('{{ myfontfiles.path }}') format('truetype');
 }
-  {% endif %}
- {% endif %}
+{% endif %}
+{% endif %}
 {% endfor %}
