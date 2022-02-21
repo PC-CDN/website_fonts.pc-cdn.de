@@ -17,7 +17,7 @@ title: Font Attribution
 </tr>
 
 <tr>
-<td class='copyright' colspan=2>EuroPlate.ttf: Copyright (c) 2011 by <a href=x"https://www.autokennzeichen.info/kennzeichen-schriftart.htm">autokennzeichen.info</a></td>
+<td class='copyright' colspan=2>EuroPlate.ttf: Copyright (c) 2011 by <a href="https://www.autokennzeichen.info/kennzeichen-schriftart.htm">autokennzeichen.info</a></td>
 </tr>
 
 </table>
