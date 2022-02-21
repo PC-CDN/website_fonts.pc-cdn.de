@@ -18,7 +18,7 @@ href="#">Der Font darf zu <u>privaten Zwecken</u> frei verwendet werden.</a>
 </tr>
 
 <tr>
-<td class='copyright' colspan=2>EuroPlate.ttf: Copyright (c) ???? by https://www.autokennzeichen.info/kennzeichen-schriftart.htm</td>
+<td class='copyright' colspan=2>EuroPlate.ttf: Copyright (c) 2011 by https://www.autokennzeichen.info/kennzeichen-schriftart.htm</td>
 </tr>
 
 </table>
