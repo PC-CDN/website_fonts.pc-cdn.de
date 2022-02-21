@@ -25,6 +25,10 @@ defaults:
     path: "fonts"
    values:
     font: true
+ - scope:
+    path: "fontscnc"
+   values:
+    fontcnc: true
 
 # Pagination Settings 
 #pagination:
