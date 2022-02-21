@@ -1,0 +1,19 @@
+---
+layout: null
+---
+/* 
+©2022 Christian Pfeiffer
+Informationen über die Verwendung von Drittkompeten und die anwendbaren Lizenzbedingungen finden Sie unter https://fonts.pc-cdn.eu/licensecnc.html
+*/
+{% assign font_files = site.static_files | where: "fontcnc", true %}
+ {% for myfontfiles in font_files %}
+  {% if myfontfiles.extname == '.ttf' %}
+/* {{ myfontfiles.basename }} no Regular no Italic */
+@font-face {
+  font-family: '{{ myfontfiles.basename }}';
+  font-style: normal;
+  font-weight: 400;
+  src : url('{{ myfontfiles.path }}') format('truetype');
+}
+{% endif %}
+{% endfor %}
