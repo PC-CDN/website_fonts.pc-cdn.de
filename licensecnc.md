@@ -12,8 +12,7 @@ title: Font Attribution
  style='font-family:"EuroPlate"' 
  align='left'>Euro Plate</td>
 <td class='license'
- align='right'><a target="_blank" 
-href="#">Der Font darf zu <u>privaten Zwecken</u> frei verwendet werden.</a>
+ align='right'>Der Font darf zu <u>privaten Zwecken</u> frei verwendet werden.
 </td>
 </tr>
 
