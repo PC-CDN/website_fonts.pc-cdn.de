@@ -3,7 +3,7 @@ layout: null
 ---
 /* 
 ©2022 Christian Pfeiffer
-Informationen über die Verwendung von Drittkompeten und die anwendbaren Lizenzbedingungen finden Sie unter https://fonts.pc-cdn.eu/licensecnc.html
+Informationen über die Verwendung von Drittkompeten und die anwendbaren Lizenzbedingungen finden Sie unter https://fonts.pc-cdn.eu/license-cnc.html
 */
 {% assign font_files = site.static_files | where: "fontcnc", true %}
  {% for myfontfiles in font_files %}
