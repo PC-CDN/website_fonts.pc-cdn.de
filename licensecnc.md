@@ -1,9 +1,9 @@
 ---
 layout: default
-permalink: /licensecnc.html
+permalink: /license-cnc.html
 title: Font Attribution
 ---
-<link href='myfontscnc.css' rel='stylesheet' type='text/css' nonce="">
+<link href='myfontfiles-cnc.css' rel='stylesheet' type='text/css' nonce="">
 
 <table>
 
