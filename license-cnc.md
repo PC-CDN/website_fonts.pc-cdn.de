@@ -13,7 +13,7 @@ Bitte lies die jeweiligen Lizenzbedingungen bevor du sie nutzen möchtest!
 <tr class='header'>
 <td class='family'
  style='font-family:"EuroPlate"' 
- align='left'>Euro Plate</td>
+ align='left'>+Euro : Plate</td>
 <td class='license'
  align='right'>Der Font darf zu <u>privaten Zwecken</u> frei verwendet werden.
 </td>
