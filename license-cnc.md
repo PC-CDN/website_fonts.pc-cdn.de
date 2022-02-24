@@ -5,6 +5,9 @@ title: Font Attribution
 ---
 <link href='myfontfiles-cnc.css' rel='stylesheet' type='text/css' nonce="">
 
+Die Nachfolgenden Schriftarten sind NICHT CC0.  
+Bitte lies die jeweiligen Lizenzbedingungen bevor du sie nutzen möchtest!
+
 <table>
 
 <tr class='header'>
