@@ -1,5 +1,5 @@
 ---
-permalink: license.html
+permalink: /genericons/v/3.4.1/license.html
 ---
                     GNU GENERAL PUBLIC LICENSE
                        Version 2, June 1991
