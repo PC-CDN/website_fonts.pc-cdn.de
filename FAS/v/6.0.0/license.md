@@ -1,3 +1,6 @@
+---
+permalink: license.html
+---
 Font Awesome Free License
 -------------------------
 
