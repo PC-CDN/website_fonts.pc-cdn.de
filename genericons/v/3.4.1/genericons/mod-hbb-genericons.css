@@ -1,0 +1,18 @@
+/**
+
+	Genericons
+
+*/
+@import 'genericons.css';
+/*
+@import url("https://template.pc-cdn.de/assets/genericons/genericons/genericons.css"); 
+*/
+
+.genericon {
+	text-color: #FFFFFF; /* #5f7891; */
+}
+
+
+.genericon-post:before { content: "\f443"; }
+
+
