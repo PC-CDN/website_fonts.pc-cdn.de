@@ -1,5 +1,5 @@
 ---
-permalink: /FAS/v/6.0.0/license.html
+permalink: /FAS/v/lastest/license.html
 ---
 Font Awesome Free License
 -------------------------
