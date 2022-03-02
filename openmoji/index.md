@@ -2,4 +2,4 @@
 permalink: /openmoji/index.html
 ---
 
-<a href="./license.html">Lizenz</a>
+V 13.1 <a href="./license.html">Lizenz</a>
