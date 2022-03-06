@@ -19,14 +19,14 @@ This GitHub repository contains all of the source files and exported png/svg fil
 ## Table of Contents
 
 - [Styleguide](http://openmoji.org/styleguide) our beloved styleguide.
-- [FAQ](FAQ.md) Check if your question has already been answered
-- [Contributing](CONTRIBUTING.md) Pull Requests are welcome!
-- [Developer Setup](CONTRIBUTING.md#-Developer-Setup) how to setup a environment.
-- [API](API.md) documentation for the npm OpenMoji package.
-- [Font](font) infos on the OpenMoji-Color and OpenMoji-Black fonts.
+- [FAQ](https://github.com/hfg-gmuend/openmoji/blob/master/FAQ.md) Check if your question has already been answered
+- [Contributing](https://github.com/hfg-gmuend/openmoji/blob/master/CONTRIBUTING.md) Pull Requests are welcome!
+- [Developer Setup](https://github.com/hfg-gmuend/openmoji/blob/master/CONTRIBUTING.md#-Developer-Setup) how to setup a environment.
+- [API](https://github.com/hfg-gmuend/openmoji/blob/master/API.md) documentation for the npm OpenMoji package.
+- [Font](https://github.com/hfg-gmuend/openmoji/blob/master/font) infos on the OpenMoji-Color and OpenMoji-Black fonts.
 - [Team](http://openmoji.org/about/#team) list of all authors and contributors.
 - [Acknowledgements](http://openmoji.org/about/#acknowledgement) Thanks!
-- [Code of Conduct](CODE_OF_CONDUCT.md) and OpenMoji Community Statement.
+- [Code of Conduct](https://github.com/hfg-gmuend/openmoji/blob/master/CODE_OF_CONDUCT.md) and OpenMoji Community Statement.
 
 
 ## Downloads & Distribution Channels
