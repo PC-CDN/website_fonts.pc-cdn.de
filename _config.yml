@@ -20,6 +20,12 @@ author: Christian Pfeiffer
 since: 2022
 deactivaterelatedposts: true
 
+# hostcredits: GHP (githubpages), IDN (IONOS DeployNow), OHI (Own Server)
+# hostcredit: none
+FAS: CSS
+# FAS (Fontawesome): CSS (css File) JS (javascript) FASkit (Remote von kit.fontawesome.com)
+
+
 defaults:
  - scope:
     path: "fonts"
