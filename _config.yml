@@ -1,8 +1,8 @@
 remote_theme: PfeifferChPT/pc-cdn-template
-name: "PC-CDN.eu"
-title: "PC-CDN.eu"
-subtitle: "EU FONTS CDN"
-description: "FONTS - EU Server | PC-CDN.eu" #metadescription
+name: "PC-CDN.de"
+title: "PC-CDN.de"
+subtitle: "DE FONTS CDN"
+description: "FONTS - DE Server | PC-CDN.de" #metadescription
 markdown: kramdown
 highlighter: rouge # pygments or rouge or null
 exclude: ["node_modules", "gulpfile.js", "package.json"]
