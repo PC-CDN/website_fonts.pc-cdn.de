@@ -1,15 +1,15 @@
 remote_theme: PfeifferChPT/pc-cdn-template
-name: "PC-CDN.de"
-title: "PC-CDN.de"
-subtitle: "DE FONTS CDN"
-description: "FONTS - DE Server | PC-CDN.de" #metadescription
+name: "PC-CDN"
+title: "PC-CDN"
+subtitle: "FONTS CDN"
+description: "FONTS - Server | PC-CDN" #metadescription
 markdown: kramdown
 highlighter: rouge # pygments or rouge or null
 exclude: ["node_modules", "gulpfile.js", "package.json"]
 permalink: /:title.html
 excerpt_separator: <!--more-->
 templateserverurl: https://template.pc-cdn.de
-themecolor: blue
+themecolor: orange
 themelogo: https://template.pc-cdn.de/assets/img/logo/logo.png
 dummyimage: overlay-pattern.png
 themeURI: https://template.pc-cdn.de/content/themes/writr/css/none.css
