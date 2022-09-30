@@ -9,7 +9,7 @@ exclude: ["node_modules", "gulpfile.js", "package.json"]
 permalink: /:title.html
 excerpt_separator: <!--more-->
 templateserverurl: https://template.pc-cdn.de
-themecolor: dlt
+themecolor: dltr
 themelogo: https://template.pc-cdn.de/assets/img/logo/transparent_logo.png
 dummyimage: overlay-pattern.png
 themeURI: https://template.pc-cdn.de/content/themes/writr/css/none.css
