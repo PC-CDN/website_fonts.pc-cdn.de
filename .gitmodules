@@ -1,3 +1,3 @@
-[submodule "MDI/"]
-	path = MDI
+[submodule "mdi/"]
+	path = mdi/
 	url = https://github.com/PfeifferchsForks/MaterialDesign-Webfont
